@@ -1,0 +1,2 @@
+G , G , R , R , S d p , R , d R , S d S R ||
+G S R G R , R , S d p , R , d R , S d S R
